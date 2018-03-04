@@ -33,6 +33,10 @@
       ]
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/mushroom-1up-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.6.5",
     "uniqCompNum": 25,
     "versionPublish": "4.6.5"
