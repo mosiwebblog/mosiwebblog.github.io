@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mosi_web",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/mushroom-1up-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/smashicons-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
@@ -45,7 +45,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Mosi Web",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -121,7 +121,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "",
         "title": "Live demo",
         "order": 1
       },
